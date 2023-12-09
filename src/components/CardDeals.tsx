@@ -1,4 +1,3 @@
-import React from "react";
 import { Button } from ".";
 import styles, { layout } from "../style";
 import { card } from "../assets";

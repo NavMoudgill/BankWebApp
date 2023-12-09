@@ -1,8 +1,6 @@
-import React from "react";
 import { bill, apple, google } from "../assets";
 import styles, { layout } from "../style";
 import { LazyLoadImage } from "react-lazy-load-image-component";
-import { Button } from ".";
 const Billing = () => {
   return (
     <section id="product" className={`${layout.sectionReverse} relative`}>

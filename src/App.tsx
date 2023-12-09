@@ -1,4 +1,3 @@
-import React from "react";
 import styles from "./style";
 import ErrorBoundaryApp from "./errorHandling/ErrorBoundary";
 import SomeErrorPage from "./errorHandling/SomeError";

@@ -1,6 +1,5 @@
-import React from "react";
-import styles, { layout } from "../style";
-import { Button, FeedbackCard } from ".";
+import styles from "../style";
+import { FeedbackCard } from ".";
 import { feedback } from "../constants";
 const Testimonials = () => (
   <section

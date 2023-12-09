@@ -1,4 +1,3 @@
-import React from "react";
 import { quotes } from "../assets";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 interface FeedbackProps {

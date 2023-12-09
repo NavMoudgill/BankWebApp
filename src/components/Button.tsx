@@ -1,5 +1,3 @@
-import React from "react";
-
 const Button = ({ styles }: { styles: String }) => {
   return (
     <button

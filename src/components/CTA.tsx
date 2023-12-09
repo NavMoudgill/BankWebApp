@@ -1,5 +1,4 @@
-import React from "react";
-import styles, { layout } from "../style";
+import styles from "../style";
 import { Button } from ".";
 
 const CTA = () => {
